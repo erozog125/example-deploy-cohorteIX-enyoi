@@ -1,0 +1,18 @@
+* Introducción a Git y github
+* Despliegue
+* Dudas de proyecto integrador en Discord
+======================
+software está en la versión 17.0.0
+                             X.Y.Z
+Trazabilidad: dejar huella de todo lo que se haga
+git software de control de versiones
+===================================
+
+
+commits      commits       commits       
+*------------*-------------*------------(Principal - main)-------------*(edwin-dev)
+html          css           header y nav                               Creé un nuevo header
+
+*------------*-------------*-------------*----------*(edwin-dev)
+html          css           header y nav             Creé un nuevo header
+
