@@ -1,1 +1,4 @@
 A partir de este momento, tomo apuntes aquí.
+
+En este momento ya sé crear commits:
+git commit -m "Mensaje de guardado"
