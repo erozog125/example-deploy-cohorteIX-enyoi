@@ -14,6 +14,6 @@ body {
 h1 {
   font-size: 6rem;
   color: orangered;
-  text-shadow: 0 0 20px blueviolet;
+  text-shadow: 0 0 20px red;
   margin: 2rem;
 }
