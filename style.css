@@ -6,14 +6,14 @@ body {
   width: 100vw;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #020a75;
+  background-color: #181922;
 }
 
 h1 {
   font-size: 6rem;
   color: orangered;
-  text-shadow: 0 0 20px red;
-  margin: 2rem;
+  text-shadow: 0 0 20px #52e309;  
 }
